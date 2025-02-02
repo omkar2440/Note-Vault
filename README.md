@@ -72,7 +72,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mayursonawane2000/Notes-Vault.git
+(https://github.com/omkar2440/Note-Vault.git)
 ```
 
 **Configure the database:** <br />
@@ -150,7 +150,7 @@ Open http://localhost:3000 in your browser to view the project.
 <hr />
 
 ### <a name="author">🔗 Author </a>
-[Mayur Sonawane](https://github.com/mayursonawane2000)
+[Omkar Udavant][(https://github.com/omkar2440]
 
 
 <br /><br /><br />
